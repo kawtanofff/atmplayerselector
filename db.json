@@ -1,0 +1,254 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "firstName": "Jan",
+      "lastName": "Oblak",
+      "description": "Goalkeeper.",
+      "currentClub": "Atletico de Madrid",
+      "age": 29,
+      "rating": 91,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jan_Oblak_2019.jpg/250px-Jan_Oblak_2019.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "Benjamin",
+      "lastName": "Lecomte",
+      "description": "Goalkeeper.",
+      "currentClub": "Atletico de Madrid",
+      "age": 31,
+      "rating": 79,
+      "imageUrl": "https://s.hs-data.com/bilder/spieler/gross/170569.jpg?fallback=png"
+    },
+    {
+      "id": 3,
+      "firstName": "Renan",
+      "lastName": "Lodi",
+      "description": "Defender. Left-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 24,
+      "rating": 81,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/ATL-Madrid-Lokomotiv001-Lodi.jpg"
+   },
+   {
+      "id": 4,
+      "firstName": "Reinildo",
+      "lastName": "Mandava",
+      "description": "Defender. Left-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 28,
+      "rating": 78,
+      "imageUrl": "https://media.gettyimages.com/photos/reinildo-mandava-of-atletico-madrid-controls-the-ball-during-the-picture-id1238275844?s=2048x2048"
+   },
+   {
+      "id": 5,
+      "firstName": "Jose Maria",
+      "lastName": "Gimenez",
+      "description": "Defender. Centre-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 27,
+      "rating": 84,
+      "imageUrl": "https://i.pinimg.com/736x/f6/25/47/f62547ef0066c5872c4f7654b5e4968f.jpg"
+   },
+   {
+      "id": 6,
+      "firstName": "Stefan",
+      "lastName": "Savic",
+      "description": "Defender. Centre-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 31,
+      "rating": 84,
+      "imageUrl": "https://pbs.twimg.com/media/FQSt5DzXMAQ5BWJ.jpg:large"
+   },
+   {
+      "id": 7,
+      "firstName": "Felipe",
+      "lastName": "Augusto",
+      "description": "Defender. Centre-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 33,
+      "rating": 84,
+      "imageUrl": "https://scontent.fiev25-2.fna.fbcdn.net/v/t39.30808-6/280478422_542132940608194_7569978126907333081_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=rWtuRUzxZeIAX_6Uaya&_nc_ht=scontent.fiev25-2.fna&oh=00_AT-xSIYB5tV_uyX7YuZPULSf1-Fhp3jupbbai3Amgt6wgw&oe=62B5ED5F"
+   },
+   {
+      "id": 8,
+      "firstName": "Mario",
+      "lastName": "Hermoso",
+      "description": "Defender. Centre-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 27,
+      "rating": 82,
+      "imageUrl": "https://pbs.twimg.com/media/EryG0ibXIAIQ-OF?format=jpg&name=medium"
+   },
+   {
+      "id": 9,
+      "firstName": "Sime",
+      "lastName": "Vrsaljko",
+      "description": "Defender. Right-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 30,
+      "rating": 80,
+      "imageUrl": "https://i.pinimg.com/474x/43/b9/72/43b972d561f40f18aa542fe11a9e3301.jpg"
+   },
+   {
+      "id": 10,
+      "firstName": "Daniel",
+      "lastName": "Wass",
+      "description": "Defender. Right-back.",
+      "currentClub": "Atletico de Madrid",
+      "age": 33,
+      "rating": 80,
+      "imageUrl": "https://media.gettyimages.com/photos/daniel-wass-of-atletico-de-madrid-looks-on-during-the-la-liga-match-picture-id1368977154?s=2048x2048"
+   },
+   {
+      "id": 11,
+      "firstName": "Geoffrey",
+      "lastName": "Kondogbia",
+      "description": "Centre defensive midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 29,
+      "rating": 79,
+      "imageUrl": "https://s.hs-data.com/bilder/spieler/gross/177703.jpg"
+   },
+   {
+      "id": 12,
+      "firstName": "Marcos",
+      "lastName": "Llorente",
+      "description": "Centre midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 27,
+      "rating": 86,
+      "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2021/05/8edbe2cb-0277-4cbd-b8b4-9b91b19091a1.jpg"
+   },
+   {
+      "id": 13,
+      "firstName": "Rodrigo",
+      "lastName": "de Paul",
+      "description": "Centre midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 28,
+      "rating": 82,
+      "imageUrl": "https://media.gettyimages.com/photos/rodrigo-de-paul-of-atletico-madrid-looks-on-during-the-la-liga-match-picture-id1335898457"
+   },
+   {
+      "id": 14,
+      "firstName": "Koke",
+      "lastName": "Resurreccion",
+      "description": "Centre midfielder. Captain.",
+      "currentClub": "Atletico de Madrid",
+      "age": 30,
+      "rating": 85,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Koke_2019_%28cropped%29.jpg/250px-Koke_2019_%28cropped%29.jpg"
+   },
+   {
+      "id": 15,
+      "firstName": "Saul",
+      "lastName": "Niguez",
+      "description": "Centre midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 27,
+      "rating": 82,
+      "imageUrl": "https://www.si.com/.image/t_share/MTgyMTcxMzY4MzAzODk1Njgz/saul-1.jpg"
+   },
+   {
+      "id": 16,
+      "firstName": "Hector",
+      "lastName": "Herrera",
+      "description": "Centre midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 32,
+      "rating": 81,
+      "imageUrl": "https://s.hs-data.com/bilder/spieler/gross/168484.jpg"
+   },
+   {
+      "id": 17,
+      "firstName": "Thomas",
+      "lastName": "Lemar",
+      "description": "Left midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 26,
+      "rating": 83,
+      "imageUrl": "https://s.hs-data.com/bilder/spieler/gross/210876.jpg"
+   },
+   {
+      "id": 18,
+      "firstName": "Yannick",
+      "lastName": "Carrasco",
+      "description": "Left midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 28,
+      "rating": 84,
+      "imageUrl": "https://thumbs.dreamstime.com/b/yannick-ferreira-carrasco-atletico-madrid-spanish-league-match-against-rcd-espanyol-power-stadium-april-78938468.jpg"
+   },
+   {
+      "id": 19,
+      "firstName": "Matheus",
+      "lastName": "Cunha",
+      "description": "Centre attacking midfielder.",
+      "currentClub": "Atletico de Madrid",
+      "age": 23,
+      "rating": 79,
+      "imageUrl": "https://s2.glbimg.com/vEQJDmhJKoXpR_u7MwUZjJlNdYI=/0x0:2889x4000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/j/I/8aMBU0TGif1zRLBuwRAA/gettyimages-1337124843.jpg"
+   },
+   {
+      "id": 20,
+      "firstName": "Joao",
+      "lastName": "Felix",
+      "description": "Centre forward.",
+      "currentClub": "Atletico de Madrid",
+      "age": 22,
+      "rating": 83,
+      "imageUrl": "https://www.coachesvoice.com/wp-content/uploads/2018/10/FelixMobile.png"
+   },
+   {
+      "id": 21,
+      "firstName": "Angel",
+      "lastName": "Correa",
+      "description": "Striker.",
+      "currentClub": "Atletico de Madrid",
+      "age": 27,
+      "rating": 83,
+      "imageUrl": "https://i.pinimg.com/originals/55/f3/e6/55f3e66f2b4846b55479241477180da2.jpg"
+   },
+   {
+      "id": 22,
+      "firstName": "Antoine",
+      "lastName": "Griezmann",
+      "description": "Striker.",
+      "currentClub": "Atletico de Madrid",
+      "age": 31,
+      "rating": 85,
+      "imageUrl": "https://pbs.twimg.com/media/FVoHT-qWIAAFqfZ.jpg:large"
+   },
+   {
+      "id": 23,
+      "firstName": "Luis",
+      "lastName": "Suarez",
+      "description": "Striker.",
+      "currentClub": "Atletico de Madrid",
+      "age": 35,
+      "rating": 88,
+      "imageUrl": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-09-28/c18f0565-4f78-43aa-b203-451ac84594ba.jpeg"
+   },
+   {
+      "id": 24,
+      "firstName": "Fernando",
+      "lastName": "Torres",
+      "description": "Legend. Striker.",
+      "currentClub": "Atletico de Madrid",
+      "age": 38,
+      "rating": 92,
+      "imageUrl": "https://i.pinimg.com/originals/c5/c3/64/c5c364233e1505808c0dbfbb245d63a7.jpg"
+   },
+   {
+      "id": 25,
+      "firstName": "Diego",
+      "lastName": "Simeone",
+      "description": "Coach.",
+      "currentClub": "Atletico de Madrid",
+      "age": 52,
+      "rating": 90,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Diego_Simeone.jpg"
+   }
+  ]
+}

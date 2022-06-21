@@ -1,0 +1,19 @@
+<div>
+  <div class="container d-flex flex-column min-vh-100 receipts-list-container">
+    <header class="bg-main row p-3">
+      <div class="col-md-4">
+        <a routerLink="home">
+          <span class="fs-5 fw-bold pt-color">ATLETICO DE MADRID PLAYERS</span>
+        </a>
+      </div>
+    </header>
+    <router-outlet #routerOutlet="outlet"></router-outlet>
+    <footer class="bg-main row p-3 mt-auto">
+      <div class="col-md-4">
+        <a routerLink="home">
+          <span class="fs-5 fw-bold pt-color">PORQUE LUCHAN COMO HERMANOS</span>
+        </a>
+      </div>
+    </footer>
+  </div>
+</div>

@@ -1,0 +1,42 @@
+<div *ngIf="player" class="container p-3">
+  <div class="row player-img-container justify-content-md-center">
+    <div class="col-md-6 pt-bg-color p-3">
+      <span class="fs-1 fw-bold me-2">{{player.firstName}}</span>
+      <span class="fs-1 fw-bold">{{player.lastName}}</span>
+
+      <div class="row mt-5">
+        <div class="col-md-2 fs-5 fw-bold">
+          <span>Age</span>
+        </div>
+        <div class="col-md-2 fs-5 fw-bold">
+          <span>Club</span>
+        </div>
+        <div class="col-md-2 fs-5 fw-bold">
+          <span>Rating</span>
+        </div>
+      </div>
+      <div class="row mt-2">
+        <div class="col-md-2 fs-5">
+          <span>{{player.age}}</span>
+        </div>
+        <div class="col-md-2 fs-5">
+          <span>{{player.currentClub}}</span>
+        </div>
+        <div class="col-md-2 fs-5">
+          <span class="align-top">
+          {{player.rating}}
+          </span>
+          <mat-icon class="star-icon" aria-hidden="false" aria-label="Star icon">star</mat-icon>
+        </div>
+      </div>
+
+      <div class="row mt-4">
+        <div class="col-md-10 fs-6">
+          {{player.description}}
+        </div>
+      </div>
+    </div>
+
+    <img class="col-md-4 player-img" [src]="player.imageUrl" alt="player image">
+  </div>
+</div>

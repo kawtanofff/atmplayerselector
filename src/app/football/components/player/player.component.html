@@ -1,0 +1,16 @@
+<div class="container mb-4" (click)="onPlayerClick()">
+  <div class="row player-img-container">
+    <img class="col player-img" [src]="player.imageUrl" alt="player image">
+  </div>
+  <div class="row fs-6 mt-2">
+    <span class="col-md-3">
+      {{player.firstName}}
+    </span>
+    <span class="col-md-3">
+      {{player.lastName}}
+    </span>
+    <span class="col-md-6 text-end text-secondary">
+      {{player.currentClub}}
+    </span>
+  </div>
+</div>
